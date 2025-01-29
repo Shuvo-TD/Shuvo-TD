@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shuvo Talukdar</h1>
-<h3 align="center">A full-stack web developer</h3>
+<h3 align="center">A full-stack web developer | Always open to learn</h3>
 
 
 
