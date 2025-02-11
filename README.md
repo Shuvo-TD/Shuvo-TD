@@ -19,5 +19,7 @@
 
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvo-td&show_icons=true&locale=en&layout=compact" alt="shuvo-td" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvo-td&show_icons=true&locale=en&layout=compact&include_all_commits=true&include_forks=true" alt="shuvo-td" />
+</p>
 
